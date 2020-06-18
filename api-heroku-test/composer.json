@@ -1,0 +1,12 @@
+{
+    "name": "jafar_olamide/api-heroku-test",
+    "authors": [
+        {
+            "name": "jafarOlamide",
+            "email": "jafarolamidekale@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-mysqli": "*"
+    }
+}
